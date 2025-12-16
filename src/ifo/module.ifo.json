@@ -1348,6 +1348,13 @@
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
+          "value": "iceflow_mist"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
           "value": "icelakes"
         }
       },
@@ -3527,13 +3534,6 @@
           "type": "resref",
           "value": "_treasure_stagin"
         }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "iceflow_mist"
-        }
       }
     ]
   },
@@ -3560,7 +3560,7 @@
   "Mod_Description": {
     "type": "cexolocstring",
     "value": {
-      "0": "The Frozen North is a low magic, low level, action-oriented server built around our re-imagining and expansion of the original Wailing Death campaign. Minimal class/spell changes. Role-playing not required.\n(https://discord.gg/qKqRUDZ)"
+      "0": "!content!"
     }
   },
   "Mod_DuskHour": {
@@ -3609,7 +3609,7 @@
   },
   "Mod_MinGameVer": {
     "type": "cexostring",
-    "value": "1.88"
+    "value": "1.89"
   },
   "Mod_MinPerHour": {
     "type": "byte",
